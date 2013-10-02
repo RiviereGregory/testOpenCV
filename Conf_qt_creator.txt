@@ -1,0 +1,5 @@
+Faire un creator.bat avec dedans:
+call "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\vcvarsall.bat"
+"C:\Qt\qtcreator-2.7.0\bin\qtcreator.exe"
+
+Pour pouvoir utiliser les bibliothèque qui sont dans le repertoire c:/
